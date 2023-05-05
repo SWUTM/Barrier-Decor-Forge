@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "barrierdecor:block/barrier_slab"
+    },
+    "type=double": {
+      "model": "barrierdecor:block/barrier_planks"
+    },
+    "type=top": {
+      "model": "barrierdecor:block/barrier_slab_top"
+    }
+  }
+}
